@@ -1,4 +1,4 @@
-# Syphilis Case Management System - BETA (Web)
+# Syphilis Case Management System (Web Client)
 
 Web client of a syphilis case management application made with ReactJS and TypeScript. This is a BETA version developed for a college assignment.
 
@@ -21,7 +21,7 @@ _For more information about other dependencies, see the `package.json` file._
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/thiagocrux/scms-web-beta.git
+git clone https://github.com/thiagocrux/_LEGACY_scms-web-client.git
 ```
 
 2. Browse to the project folder:
